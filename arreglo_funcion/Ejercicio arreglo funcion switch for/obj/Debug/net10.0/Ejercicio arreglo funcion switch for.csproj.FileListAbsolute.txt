@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\bin\Debug\net10.0\Ejercicio arreglo funcion switch for.exe
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\bin\Debug\net10.0\Ejercicio arreglo funcion switch for.deps.json
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\bin\Debug\net10.0\Ejercicio arreglo funcion switch for.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\bin\Debug\net10.0\Ejercicio arreglo funcion switch for.dll
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\bin\Debug\net10.0\Ejercicio arreglo funcion switch for.pdb
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\obj\Debug\net10.0\Ejercicio arreglo funcion switch for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\obj\Debug\net10.0\Ejercicio arreglo funcion switch for.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\obj\Debug\net10.0\Ejercicio arreglo funcion switch for.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\obj\Debug\net10.0\Ejercicio arreglo funcion switch for.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\obj\Debug\net10.0\Ejercicio arreglo funcion switch for.dll
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\obj\Debug\net10.0\refint\Ejercicio arreglo funcion switch for.dll
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\obj\Debug\net10.0\Ejercicio arreglo funcion switch for.pdb
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\obj\Debug\net10.0\Ejercicio arreglo funcion switch for.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C#\Ejercicio arreglo funcion switch for\Ejercicio arreglo funcion switch for\obj\Debug\net10.0\ref\Ejercicio arreglo funcion switch for.dll

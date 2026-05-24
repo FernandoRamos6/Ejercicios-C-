@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Operadores incrementar decrementar/1.0.0": {
+        "runtime": {
+          "Operadores incrementar decrementar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operadores incrementar decrementar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

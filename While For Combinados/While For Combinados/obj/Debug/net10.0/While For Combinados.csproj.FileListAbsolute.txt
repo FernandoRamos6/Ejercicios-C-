@@ -1,0 +1,14 @@
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\bin\Debug\net10.0\While For Combinados.exe
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\bin\Debug\net10.0\While For Combinados.deps.json
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\bin\Debug\net10.0\While For Combinados.runtimeconfig.json
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\bin\Debug\net10.0\While For Combinados.dll
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\bin\Debug\net10.0\While For Combinados.pdb
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\obj\Debug\net10.0\While For Combinados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\obj\Debug\net10.0\While For Combinados.AssemblyInfoInputs.cache
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\obj\Debug\net10.0\While For Combinados.AssemblyInfo.cs
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\obj\Debug\net10.0\While For Combinados.csproj.CoreCompileInputs.cache
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\obj\Debug\net10.0\While For Combinados.dll
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\obj\Debug\net10.0\refint\While For Combinados.dll
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\obj\Debug\net10.0\While For Combinados.pdb
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\obj\Debug\net10.0\While For Combinados.genruntimeconfig.cache
+D:\Escritorio\VisualStudio\While For Combinados\While For Combinados\obj\Debug\net10.0\ref\While For Combinados.dll

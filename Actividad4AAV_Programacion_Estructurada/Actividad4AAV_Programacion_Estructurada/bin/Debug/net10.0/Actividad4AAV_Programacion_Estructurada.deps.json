@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Actividad4AAV_Programacion_Estructurada/1.0.0": {
+        "runtime": {
+          "Actividad4AAV_Programacion_Estructurada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Actividad4AAV_Programacion_Estructurada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

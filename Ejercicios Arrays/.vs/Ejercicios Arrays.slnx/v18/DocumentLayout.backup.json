@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\Programacion\\VisualStudio\\Ejercicios Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3267ECDF-22CB-4FE6-992D-BF7ADF9D3333}|Ejercicios Arrays\\Ejercicios Arrays.csproj|d:\\escritorio\\programacion\\visualstudio\\ejercicios arrays\\ejercicios arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3267ECDF-22CB-4FE6-992D-BF7ADF9D3333}|Ejercicios Arrays\\Ejercicios Arrays.csproj|solutionrelative:ejercicios arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Programacion\\VisualStudio\\Ejercicios Arrays\\Ejercicios Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios Arrays\\Program.cs",
+              "ToolTip": "D:\\Escritorio\\Programacion\\VisualStudio\\Ejercicios Arrays\\Ejercicios Arrays\\Program.cs*",
+              "RelativeToolTip": "Ejercicios Arrays\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T17:51:06.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

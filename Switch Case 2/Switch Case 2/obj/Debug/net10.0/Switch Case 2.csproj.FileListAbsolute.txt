@@ -1,0 +1,14 @@
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\bin\Debug\net10.0\Switch Case 2.exe
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\bin\Debug\net10.0\Switch Case 2.deps.json
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\bin\Debug\net10.0\Switch Case 2.runtimeconfig.json
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\bin\Debug\net10.0\Switch Case 2.dll
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\bin\Debug\net10.0\Switch Case 2.pdb
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\obj\Debug\net10.0\Switch Case 2.GeneratedMSBuildEditorConfig.editorconfig
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\obj\Debug\net10.0\Switch Case 2.AssemblyInfoInputs.cache
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\obj\Debug\net10.0\Switch Case 2.AssemblyInfo.cs
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\obj\Debug\net10.0\Switch Case 2.csproj.CoreCompileInputs.cache
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\obj\Debug\net10.0\Switch Case 2.dll
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\obj\Debug\net10.0\refint\Switch Case 2.dll
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\obj\Debug\net10.0\Switch Case 2.pdb
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\obj\Debug\net10.0\Switch Case 2.genruntimeconfig.cache
+\\USUARIO\Programacion\VisualStudio\Switch Case 2\Switch Case 2\obj\Debug\net10.0\ref\Switch Case 2.dll

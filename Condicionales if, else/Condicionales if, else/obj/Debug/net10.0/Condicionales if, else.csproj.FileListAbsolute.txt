@@ -1,0 +1,14 @@
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\bin\Debug\net10.0\Condicionales if, else.exe
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\bin\Debug\net10.0\Condicionales if, else.deps.json
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\bin\Debug\net10.0\Condicionales if, else.runtimeconfig.json
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\bin\Debug\net10.0\Condicionales if, else.dll
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\bin\Debug\net10.0\Condicionales if, else.pdb
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\obj\Debug\net10.0\Condicionales if, else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\obj\Debug\net10.0\Condicionales if, else.AssemblyInfoInputs.cache
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\obj\Debug\net10.0\Condicionales if, else.AssemblyInfo.cs
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\obj\Debug\net10.0\Condicionales if, else.csproj.CoreCompileInputs.cache
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\obj\Debug\net10.0\Condicionales if, else.dll
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\obj\Debug\net10.0\refint\Condicionales if, else.dll
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\obj\Debug\net10.0\Condicionales if, else.pdb
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\obj\Debug\net10.0\Condicionales if, else.genruntimeconfig.cache
+D:\Escritorio\VisualStudio\Condicionales if, else\Condicionales if, else\obj\Debug\net10.0\ref\Condicionales if, else.dll

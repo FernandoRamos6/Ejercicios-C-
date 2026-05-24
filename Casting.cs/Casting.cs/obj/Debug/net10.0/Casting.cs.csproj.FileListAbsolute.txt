@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\bin\Debug\net10.0\Casting.cs.exe
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\bin\Debug\net10.0\Casting.cs.deps.json
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\bin\Debug\net10.0\Casting.cs.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\bin\Debug\net10.0\Casting.cs.dll
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\bin\Debug\net10.0\Casting.cs.pdb
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\obj\Debug\net10.0\Casting.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\obj\Debug\net10.0\Casting.cs.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\obj\Debug\net10.0\Casting.cs.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\obj\Debug\net10.0\Casting.cs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\obj\Debug\net10.0\Casting.cs.dll
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\obj\Debug\net10.0\refint\Casting.cs.dll
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\obj\Debug\net10.0\Casting.cs.pdb
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\obj\Debug\net10.0\Casting.cs.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C#\Casting.cs\Casting.cs\obj\Debug\net10.0\ref\Casting.cs.dll

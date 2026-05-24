@@ -1,0 +1,14 @@
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\bin\Debug\net10.0\Operadores incrementar decrementar.exe
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\bin\Debug\net10.0\Operadores incrementar decrementar.deps.json
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\bin\Debug\net10.0\Operadores incrementar decrementar.runtimeconfig.json
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\bin\Debug\net10.0\Operadores incrementar decrementar.dll
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\bin\Debug\net10.0\Operadores incrementar decrementar.pdb
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\obj\Debug\net10.0\Operadores incrementar decrementar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\obj\Debug\net10.0\Operadores incrementar decrementar.AssemblyInfoInputs.cache
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\obj\Debug\net10.0\Operadores incrementar decrementar.AssemblyInfo.cs
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\obj\Debug\net10.0\Operadores incrementar decrementar.csproj.CoreCompileInputs.cache
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\obj\Debug\net10.0\Operadores incrementar decrementar.dll
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\obj\Debug\net10.0\refint\Operadores incrementar decrementar.dll
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\obj\Debug\net10.0\Operadores incrementar decrementar.pdb
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\obj\Debug\net10.0\Operadores incrementar decrementar.genruntimeconfig.cache
+D:\Escritorio\VisualStudio\Operadores incrementar decrementar\Operadores incrementar decrementar\obj\Debug\net10.0\ref\Operadores incrementar decrementar.dll

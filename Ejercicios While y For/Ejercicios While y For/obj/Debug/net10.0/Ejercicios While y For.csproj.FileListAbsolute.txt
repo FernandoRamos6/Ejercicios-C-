@@ -1,0 +1,14 @@
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\bin\Debug\net10.0\Ejercicios While y For.exe
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\bin\Debug\net10.0\Ejercicios While y For.deps.json
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\bin\Debug\net10.0\Ejercicios While y For.runtimeconfig.json
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\bin\Debug\net10.0\Ejercicios While y For.dll
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\bin\Debug\net10.0\Ejercicios While y For.pdb
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\obj\Debug\net10.0\Ejercicios While y For.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\obj\Debug\net10.0\Ejercicios While y For.AssemblyInfoInputs.cache
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\obj\Debug\net10.0\Ejercicios While y For.AssemblyInfo.cs
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\obj\Debug\net10.0\Ejercicios While y For.csproj.CoreCompileInputs.cache
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\obj\Debug\net10.0\Ejercicios While y For.dll
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\obj\Debug\net10.0\refint\Ejercicios While y For.dll
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\obj\Debug\net10.0\Ejercicios While y For.pdb
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\obj\Debug\net10.0\Ejercicios While y For.genruntimeconfig.cache
+D:\Escritorio\VisualStudio\Ejercicios While y For\Ejercicios While y For\obj\Debug\net10.0\ref\Ejercicios While y For.dll

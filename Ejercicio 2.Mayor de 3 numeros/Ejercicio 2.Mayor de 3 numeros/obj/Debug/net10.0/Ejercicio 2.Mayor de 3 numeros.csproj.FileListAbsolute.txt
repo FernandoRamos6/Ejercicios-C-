@@ -1,0 +1,14 @@
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\obj\Debug\net10.0\Ejercicio 2.Mayor de 3 numeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\obj\Debug\net10.0\Ejercicio 2.Mayor de 3 numeros.AssemblyInfoInputs.cache
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\obj\Debug\net10.0\Ejercicio 2.Mayor de 3 numeros.AssemblyInfo.cs
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\obj\Debug\net10.0\Ejercicio 2.Mayor de 3 numeros.csproj.CoreCompileInputs.cache
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\bin\Debug\net10.0\Ejercicio 2.Mayor de 3 numeros.exe
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\bin\Debug\net10.0\Ejercicio 2.Mayor de 3 numeros.deps.json
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\bin\Debug\net10.0\Ejercicio 2.Mayor de 3 numeros.runtimeconfig.json
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\bin\Debug\net10.0\Ejercicio 2.Mayor de 3 numeros.dll
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\bin\Debug\net10.0\Ejercicio 2.Mayor de 3 numeros.pdb
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\obj\Debug\net10.0\Ejercicio 2.Mayor de 3 numeros.dll
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\obj\Debug\net10.0\refint\Ejercicio 2.Mayor de 3 numeros.dll
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\obj\Debug\net10.0\Ejercicio 2.Mayor de 3 numeros.pdb
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\obj\Debug\net10.0\Ejercicio 2.Mayor de 3 numeros.genruntimeconfig.cache
+D:\Escritorio\VisualStudio\Ejercicio 2.Mayor de 3 numeros\Ejercicio 2.Mayor de 3 numeros\obj\Debug\net10.0\ref\Ejercicio 2.Mayor de 3 numeros.dll

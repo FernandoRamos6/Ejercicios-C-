@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\Programacion\\VisualStudio\\Bucle Do-While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A874E3CF-A73C-B05C-C6C2-05A5B8B7B4FA}|Bucle Do-While\\Bucle Do-While.csproj|d:\\escritorio\\programacion\\visualstudio\\bucle do-while\\bucle do-while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A874E3CF-A73C-B05C-C6C2-05A5B8B7B4FA}|Bucle Do-While\\Bucle Do-While.csproj|solutionrelative:bucle do-while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Programacion\\VisualStudio\\Bucle Do-While\\Bucle Do-While\\Program.cs",
+              "RelativeDocumentMoniker": "Bucle Do-While\\Program.cs",
+              "ToolTip": "D:\\Escritorio\\Programacion\\VisualStudio\\Bucle Do-While\\Bucle Do-While\\Program.cs",
+              "RelativeToolTip": "Bucle Do-While\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T05:02:21.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

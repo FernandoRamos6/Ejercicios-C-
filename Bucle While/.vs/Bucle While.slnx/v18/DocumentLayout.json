@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\VisualStudio\\Bucle While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747E8A58-59F1-482C-BA9F-7F5E9A20BE3A}|Bucle While\\Bucle While.csproj|d:\\escritorio\\visualstudio\\bucle while\\bucle while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747E8A58-59F1-482C-BA9F-7F5E9A20BE3A}|Bucle While\\Bucle While.csproj|solutionrelative:bucle while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Escritorio\\VisualStudio\\Bucle While\\Bucle While\\Program.cs",
+              "RelativeDocumentMoniker": "Bucle While\\Program.cs",
+              "ToolTip": "D:\\Escritorio\\VisualStudio\\Bucle While\\Bucle While\\Program.cs",
+              "RelativeToolTip": "Bucle While\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T04:11:07.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

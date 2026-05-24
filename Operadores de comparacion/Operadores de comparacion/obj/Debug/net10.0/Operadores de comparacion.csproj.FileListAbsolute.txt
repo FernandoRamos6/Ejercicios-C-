@@ -1,0 +1,14 @@
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\bin\Debug\net10.0\Operadores de comparacion.exe
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\bin\Debug\net10.0\Operadores de comparacion.deps.json
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\bin\Debug\net10.0\Operadores de comparacion.runtimeconfig.json
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\bin\Debug\net10.0\Operadores de comparacion.dll
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\bin\Debug\net10.0\Operadores de comparacion.pdb
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\obj\Debug\net10.0\Operadores de comparacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\obj\Debug\net10.0\Operadores de comparacion.AssemblyInfoInputs.cache
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\obj\Debug\net10.0\Operadores de comparacion.AssemblyInfo.cs
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\obj\Debug\net10.0\Operadores de comparacion.csproj.CoreCompileInputs.cache
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\obj\Debug\net10.0\Operadores de comparacion.dll
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\obj\Debug\net10.0\refint\Operadores de comparacion.dll
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\obj\Debug\net10.0\Operadores de comparacion.pdb
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\obj\Debug\net10.0\Operadores de comparacion.genruntimeconfig.cache
+D:\Escritorio\VisualStudio\Operadores de comparacion\Operadores de comparacion\obj\Debug\net10.0\ref\Operadores de comparacion.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Operadores logicos and, or, not/1.0.0": {
+        "runtime": {
+          "Operadores logicos and, or, not.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operadores logicos and, or, not/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

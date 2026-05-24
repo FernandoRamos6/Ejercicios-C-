@@ -1,0 +1,14 @@
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\bin\Debug\net10.0\Operadores logicos and, or, not.exe
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\bin\Debug\net10.0\Operadores logicos and, or, not.deps.json
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\bin\Debug\net10.0\Operadores logicos and, or, not.runtimeconfig.json
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\bin\Debug\net10.0\Operadores logicos and, or, not.dll
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\bin\Debug\net10.0\Operadores logicos and, or, not.pdb
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\obj\Debug\net10.0\Operadores logicos and, or, not.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\obj\Debug\net10.0\Operadores logicos and, or, not.AssemblyInfoInputs.cache
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\obj\Debug\net10.0\Operadores logicos and, or, not.AssemblyInfo.cs
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\obj\Debug\net10.0\Operadores logicos and, or, not.csproj.CoreCompileInputs.cache
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\obj\Debug\net10.0\Operadores logicos and, or, not.dll
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\obj\Debug\net10.0\refint\Operadores logicos and, or, not.dll
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\obj\Debug\net10.0\Operadores logicos and, or, not.pdb
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\obj\Debug\net10.0\Operadores logicos and, or, not.genruntimeconfig.cache
+D:\Escritorio\VisualStudio\Operadores logicos and, or, not\Operadores logicos and, or, not\obj\Debug\net10.0\ref\Operadores logicos and, or, not.dll

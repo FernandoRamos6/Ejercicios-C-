@@ -1,0 +1,14 @@
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\bin\Debug\net10.0\Bucle Break - Continue.exe
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\bin\Debug\net10.0\Bucle Break - Continue.deps.json
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\bin\Debug\net10.0\Bucle Break - Continue.runtimeconfig.json
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\bin\Debug\net10.0\Bucle Break - Continue.dll
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\bin\Debug\net10.0\Bucle Break - Continue.pdb
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\obj\Debug\net10.0\Bucle Break - Continue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\obj\Debug\net10.0\Bucle Break - Continue.AssemblyInfoInputs.cache
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\obj\Debug\net10.0\Bucle Break - Continue.AssemblyInfo.cs
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\obj\Debug\net10.0\Bucle Break - Continue.csproj.CoreCompileInputs.cache
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\obj\Debug\net10.0\Bucle Break - Continue.dll
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\obj\Debug\net10.0\refint\Bucle Break - Continue.dll
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\obj\Debug\net10.0\Bucle Break - Continue.pdb
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\obj\Debug\net10.0\Bucle Break - Continue.genruntimeconfig.cache
+D:\Escritorio\VisualStudio\Bucle Break - Continue\Bucle Break - Continue\obj\Debug\net10.0\ref\Bucle Break - Continue.dll

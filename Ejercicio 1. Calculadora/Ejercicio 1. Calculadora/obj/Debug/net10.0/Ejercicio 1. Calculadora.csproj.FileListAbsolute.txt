@@ -1,0 +1,14 @@
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\bin\Debug\net10.0\Ejercicio 1. Calculadora.exe
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\bin\Debug\net10.0\Ejercicio 1. Calculadora.deps.json
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\bin\Debug\net10.0\Ejercicio 1. Calculadora.runtimeconfig.json
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\bin\Debug\net10.0\Ejercicio 1. Calculadora.dll
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\bin\Debug\net10.0\Ejercicio 1. Calculadora.pdb
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\obj\Debug\net10.0\Ejercicio 1. Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\obj\Debug\net10.0\Ejercicio 1. Calculadora.AssemblyInfoInputs.cache
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\obj\Debug\net10.0\Ejercicio 1. Calculadora.AssemblyInfo.cs
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\obj\Debug\net10.0\Ejercicio 1. Calculadora.csproj.CoreCompileInputs.cache
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\obj\Debug\net10.0\Ejercicio 1. Calculadora.dll
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\obj\Debug\net10.0\refint\Ejercicio 1. Calculadora.dll
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\obj\Debug\net10.0\Ejercicio 1. Calculadora.pdb
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\obj\Debug\net10.0\Ejercicio 1. Calculadora.genruntimeconfig.cache
+D:\Escritorio\VisualStudio\Ejercicio 1. Calculadora\Ejercicio 1. Calculadora\obj\Debug\net10.0\ref\Ejercicio 1. Calculadora.dll
